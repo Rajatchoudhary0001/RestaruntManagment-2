@@ -35,8 +35,8 @@ $ git status
 <br>
 $ git add .
 <br>
-$ git commit -m ""
+$ git commit -m "Rajat commit"
 <br>
-$ git remote add origin ""
+$ git remote add origin "https://github.com/Rajatchoudhary0001/RestaruntManagment-2.git"
 <br>
 $ git push -u origin master
